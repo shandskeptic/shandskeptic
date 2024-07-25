@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🐧, I'm ShanDSkeptiC</h1>
 <h3 align="center">Computer Engineering | Frontend Developer | Software Developer</h3>
 
-I am a Computer Science Student at Universitas Komputer Indonesia Bandung. I am interested with demonstrated in user-friendly development for Software Applications, Websites, Soft Computing, and Artificial Intelligence. I have experience in Programming, Coding, Testing Features, Debugging, and Providing Engineering Support with ability to perform well in a team.
+I am interested with demonstrated in user-friendly development for Software Applications, Websites, Soft Computing, and Artificial Intelligence. I have experience in Programming, Coding, Testing Features, Debugging, and Providing Engineering Support with ability to perform well in a team.
 
 <h3 align="left">#️⃣ Connect with me:</h3>
 <p align="left">

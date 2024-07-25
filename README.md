@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shandyka Oka Yulistianto</h1>
 <h3 align="center">Computer Engineering | Frontend Developer | Software Developer</h3>
 
+I am a Computer Science Student at Universitas Komputer Indonesia Bandung. I am interested with demonstrated in user-friendly development for Software Applications, Websites, Soft Computing, and Artificial Intelligence. I have experience in Programming, Coding, Testing Features, Debugging, and Providing Engineering Support with ability to perform well in a team.
+
 <h3 align="left">#️⃣ Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shandyka-oka-yulistianto-989279295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shandyka-oka-yulistianto-989279295" height="30" width="40" /></a>

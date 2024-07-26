@@ -37,13 +37,7 @@ I am interested with demonstrated in user-friendly development for Software Appl
 
 #
 
-### ⏫ Most Used
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shandskeptic&show_icons=true&locale=en&layout=compact" alt="shandskeptic" /></p>
-<br /><br /><br /><br /><br /><br /><br /><br />
-
-#
-
 ### 📊 Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shandskeptic&show_icons=true&locale=en" alt="shandskeptic" /></p>
+| <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shandskeptic&show_icons=true&locale=en&layout=compact" alt="shandskeptic" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=shandskeptic&show_icons=true&locale=en" alt="shandskeptic" /> |
+| --- | --- |

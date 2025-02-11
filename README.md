@@ -22,7 +22,12 @@
     </a>
 </p>
 
-#
+<hr/>
+
+# 🐍 My Contributions
+<img src="https://raw.githubusercontent.com/shandskeptic/shandskeptic/output/snake.svg" alt="Snake animation" />
+
+<hr/>
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Languages and Tools
 
@@ -45,7 +50,7 @@
 ![Static Badge](https://img.shields.io/badge/Arduino-%2300878F?style=for-the-badge&logo=arduino&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Linux-%234A4A55?style=for-the-badge&logo=linux&logoColor=white)
 
-#
+<hr/>
 
 # 📊 Github Stats
 
@@ -54,10 +59,4 @@
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shandskeptic&layout=compact&&langs_count=8"/>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/shandskeptic/shandskeptic/output/snake.svg" alt="Snake animation" />
-
-###
+<hr/>

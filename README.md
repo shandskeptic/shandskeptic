@@ -25,7 +25,11 @@
 <hr/>
 
 # 🐍 My Contributions
+<div align="center">
+    
 ![snake gif](https://github.com/shandskeptic/shandskeptic/blob/output/github-snake-dark.svg)
+    
+</div>
 
 <hr/>
 
@@ -53,10 +57,10 @@
 <hr/>
 
 # 📊 Github Stats
+<div align="center">
 
-<div align="left">
-<img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=shandskeptic&show_icons=true&theme=white"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shandskeptic&layout=compact&&langs_count=8"/>
+![](https://github-readme-stats.vercel.app/api?username=shandskeptic&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shandskeptic&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 </div>
-
 <hr/>

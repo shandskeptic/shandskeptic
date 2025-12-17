@@ -14,9 +14,6 @@
     <a href="https://instagram.com/shandskeptic" target="_blank">
         <img alt="Instagram" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
-    <a href="https://facebook.com/shandskeptic" target="_blank">
-        <img alt="Facebook" src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white" />
-    </a>
     <a href="https://tiktok.com/@shandskeptic" target="_blank">
         <img alt="Tiktok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
     </a>
